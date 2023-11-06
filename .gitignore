@@ -8,3 +8,4 @@ build/
 bin/
 lib/
 .github/**
+setup_git.sh
